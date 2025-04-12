@@ -17,7 +17,7 @@ This avoids dots **and** keeps everything valid and readable ✅
 | **4.2–4.4**       | `1.3.0`     | `6.9.0`          | `nvm install 6.9.0 && nvm use 6.9.0 && npm install -g @angular/cli@1.3.0 && ng new angular-v43` |
 | **4.2–4.4 (latest)** | `1.4.0`  | `6.9.0`          | `nvm install 6.9.0 && nvm use 6.9.0 && npm install -g @angular/cli@1.4.0 && ng new angular-v44` |
 | **5.0 / 5.1**     | `1.5.0`     | `6.9.0`          | `nvm install 6.9.0 && nvm use 6.9.0 && npm install -g @angular/cli@1.5.0 && ng new angular-v50` |
-| **5.2.x**         | `1.7.0`     | `6.9.0`          | `nvm install 6.9.0 && nvm use 6.9.0 && npm install -g @angular/cli@1.7.0 && ng new angular-v52` |
+| **5.2.x**         | `1.7.0`     | `6.9.0`          | `nvm install 8.9.0 && nvm use 8.9.0 install -g @angular/cli@1.7.0 && ng new angular-v52` |
 | **6.0.x**         | `6.0.0`     | `8.9.0`          | `nvm install 8.9.0 && nvm use 8.9.0 && npm install -g @angular/cli@6.0.0 && ng new angular-v60` |
 | **6.1.x**         | `6.1.0`     | `8.9.0`          | `nvm install 8.9.0 && nvm use 8.9.0 && npm install -g @angular/cli@6.1.0 && ng new angular-v61` |
 | **7.0 / 7.1**     | `7.0.0`     | `8.9.0`          | `nvm install 8.9.0 && nvm use 8.9.0 && npm install -g @angular/cli@7.0.0 && ng new angular-v70` |
