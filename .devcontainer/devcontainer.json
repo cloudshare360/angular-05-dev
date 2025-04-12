@@ -1,11 +1,5 @@
 {
     "name": "Angular v5.2 Environment",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-    "features": {
-      "ghcr.io/devcontainers/features/nvm:1": {
-        "version": "8.9.0"
-      }
-    },
     "postCreateCommand": "bash .devcontainer/setup-angular.sh"
   }
   
