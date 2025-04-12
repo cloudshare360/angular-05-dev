@@ -1,5 +1,0 @@
-{
-    "name": "Angular v5.2 Environment",
-    "postCreateCommand": "bash .devcontainer/setup-angular.sh"
-  }
-  
