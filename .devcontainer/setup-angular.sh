@@ -8,7 +8,7 @@ echo "🔧 Setting up Angular 5.2 environment..."
 export NVM_DIR="$HOME/.nvm"
 source "$NVM_DIR/nvm.sh"
 
-nvm use 6.9.0
+nvm use 8.9.0
 
 # Install Angular CLI v1.7.0
 npm install -g @angular/cli@1.7.0
