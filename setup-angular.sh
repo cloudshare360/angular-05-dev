@@ -1,8 +1,10 @@
+
+
 echo "🔧 Setting up Angular 5.2 environment..."
 
 # Load NVM
-export NVM_DIR="$HOME/.nvm"
-source "$NVM_DIR/nvm.sh"
+# export NVM_DIR="$HOME/.nvm"
+# source "$NVM_DIR/nvm.sh"
 
 # Install and use Node.js v8.9.0
 echo "⬇️ Installing Node.js v8.9.0 via NVM..."
