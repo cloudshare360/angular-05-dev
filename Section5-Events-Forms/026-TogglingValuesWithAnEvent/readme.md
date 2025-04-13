@@ -1,0 +1,3 @@
+ <small><button (click)="user.hide= !user.hide" class="btn btn-dark btn-sm">Toggle Inline</button></small>
+ <small><button (click)="toggleHide(user)" class="btn btn-dark btn-sm">Toggle with function</button></small> --
+ <small *ngIf="user.age && user.address"><button (click)="user.hide= !user.hide" class="btn btn-dark btn-sm"><i [ngClass]="user.hide?' fa fa-plus': 'fa fa-minus'"></i></button></small>
