@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular-v52 App', () => {
+describe('my-angular052-app App', () => {
   let page: AppPage;
 
   beforeEach(() => {

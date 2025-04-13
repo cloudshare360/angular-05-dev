@@ -8,6 +8,11 @@ nvm --version  # Should output a version (e.g., 0.39.7)
 
 nvm install 8.9.0
 nvm use 8.9.0
+node -v & nvm -v
+npm install -g @angular/cli@1.7.0
+ng new angular-v52
+cd angular-v52
+ng serve --host 0.0.0.0
 
 # Check versions
 echo "📦 Node version: $(node -v)" &&
