@@ -10,6 +10,7 @@ echo "🔧 Setting up Angular 5.2 environment..."
 echo "⬇️ Installing Node.js v8.9.0 via NVM..."
 nvm install 8.9.0
 nvm use 8.9.0
+npm install -g @angular/cli@1.7.0
 
 # Check versions
 echo "📦 Node version: $(node -v)" &&
